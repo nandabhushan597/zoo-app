@@ -1,0 +1,2 @@
+class Zookeepr < ApplicationRecord
+end
